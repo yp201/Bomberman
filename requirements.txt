@@ -8,7 +8,7 @@ checkbox-support==0.22
 colorama==0.3.9
 colored==1.3.5
 command-not-found==0.3
-cryptography==1.2.3
+cryptography==3.2
 defer==1.0.6
 feedparser==5.1.3
 getch==1.0
